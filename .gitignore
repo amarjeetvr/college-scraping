@@ -1,0 +1,6 @@
+*.bak
+*.tmp
+*.tmp_*.xlsx
+~$*
+__pycache__/
+.system_generated/
